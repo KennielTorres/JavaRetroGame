@@ -4,8 +4,8 @@ A game box made with Java 8 that contains lite recreations of the following famo
     Part of my Advanced Programming course, as an undergraduate student in first year. The following contributions were done by me:
 
 Galaga-> Cosmetics: Changed in-game appearance of blinking dots, background, and text color.
-    Implemented bee entity: Spawn/Respawn of entity & player attacking algorithm. 
-    Implemented enemy ship entity: Modifications from the bee entity that include player attack by shooting instead of flying to player & Spawn/Respawn Algorithm.
+    Implemented bee entity: Spawn/Respawn of entity & player attacking algorithms. 
+    Implemented enemy ship entity: Modifications from the bee entity that include player attack by shooting instead of flying to player & Spawn/Respawn Algorithms.
     
 Pacman-> Cosmetics: Changed logo of pacman to one of the originals, and added blink to big dots.
     Added small algorithm to make small dots have a 1/30 chance of being a fruit.
